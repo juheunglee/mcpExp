@@ -14,11 +14,6 @@ def get_multiple(a: int , b:int) -> int:
 
    return f"두수의 곱곱은 {a*b} 입니다"
 
-
-
-
-
-
 # The tool is automatically added to the mcp instance by the decorator
 # prompt : What's the weather like in Seoul?
 
